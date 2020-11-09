@@ -11,6 +11,13 @@
             "email": "jhaoda@gmail.com"
         }
     ],
+    "repositories":
+    [
+        {
+            "type": "git",
+            "url": "https://github.com/f0xman/yakassa.git"
+        }
+    ],
     "require": {
         "php": ">=7.1",
         "illuminate/http": "~5.3|^6.0|^7.0|^8.0",
