@@ -15,11 +15,11 @@
     [
         {
             "type": "vcs",
-            "url": "https://github.com/f0xman/yakassa.git"
+            "url": "https://github.com/f0xman/yakassa"
         }
     ],
     "require": {
-        "appwilio/yakassa": "dev-master",
+        "yakassa/yakassa": "dev-master",
         "php": ">=7.1",
         "illuminate/http": "~5.3|^6.0|^7.0|^8.0",
         "illuminate/support": "~5.3|^6.0|^7.0|^8.0",
