@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "appwilio/yakassa": "dev-master"
+        "appwilio/yakassa": "dev-master",
         "php": ">=7.1",
         "illuminate/http": "~5.3|^6.0|^7.0|^8.0",
         "illuminate/support": "~5.3|^6.0|^7.0|^8.0",
